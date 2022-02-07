@@ -1,0 +1,72 @@
+body{
+    background: #E9ECEF ;
+}
+
+.container{
+    padding-top: 15px;
+}
+
+.header{
+    background: rgb(43, 42, 42);
+    line-height: 40px;
+}
+.header a{
+    padding-left: 15px;
+    color: white;
+}
+
+.header a:first-child{
+    color: rgb(212, 6, 6);
+    font-size: large;
+    font-weight: bold;
+}
+
+.ortala{
+    text-align: center;
+}
+
+.btn{
+    line-height: 35px;
+    background: rgb(54, 54, 255);
+    color: white;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    color: white;
+    background: rgb(103, 103, 252);
+}
+
+.clear{
+    clear: both;
+}
+
+.col-12 li{
+    list-style-position: inside;
+
+}
+
+.fc-purple{
+    color: purple;
+}
+
+.fc-red{
+    color: red;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+.card{
+    padding: 10px;
+}
+
+.price{
+    background: gray;
+    color: white;
+    width: 45px;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: normal;
+}
